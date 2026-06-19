@@ -1,167 +1,71 @@
-<h1 align="center">Hi 👋, I'm Ketan Malviya</h1>
+# 💫 About Me:
 
-<h3 align="center">
-AI/ML Engineer • Python Developer • Mathematics & Computing Student
-</h3>
+I'm an AI/ML enthusiast and Python developer focused on building practical AI solutions, automation tools, and intelligent applications. My interests span Machine Learning, Agentic AI, LLMs, and data-driven systems.
 
-<p align="center">
-Building AI Agents, Machine Learning Applications, and Automation Tools.
-</p>
+🔭 **I'm currently working on**  
+AI Agents, Social-to-Lead Agent workflows, automation frameworks, and machine learning projects.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ketan444&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-</p>
+🤝 **I'm looking to collaborate on**  
+Open-source AI projects, hackathons, LLM applications, RAG systems, and innovative AI products.
 
----
+🧠 **I'm looking for help with**  
+Advanced AI engineering, scalable system design, production deployment, and MLOps practices.
 
-# 🚀 About Me
+🌱 **I'm currently learning**  
+LangGraph, Multi-Agent Systems, Agentic Workflows, and advanced LLM application development.
 
-🎓 B.Tech in Mathematics & Computing (BTMC) at MITS Gwalior
+💬 **Ask me about**  
+Python, FastAPI, Streamlit, Machine Learning, Data Science, AI Agents, and GitHub.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Agentic AI, and LLM Applications
+⚡ **Fun fact**  
+Every project I build teaches me something new about how intelligent systems can solve real-world problems.
 
-💻 Python Developer with experience in FastAPI, Streamlit, LangChain, and Data Science
 
-🌱 Currently learning:
-- LangGraph
-- Multi-Agent Systems
-- RAG Pipelines
-- Advanced LLM Engineering
+# 💻 Tech Stack:
 
-🔭 Building:
-- AI Agents
-- Automation Frameworks
-- Machine Learning Solutions
-- Real-world AI Applications
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-📫 Reach me at:
-**your-email@example.com**
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit_Learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
----
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFCC00.svg?style=for-the-badge)
 
-# 🌐 Connect With Me
+![LangChain](https://img.shields.io/badge/LangChain-000000.svg?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B0082.svg?style=for-the-badge)
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ketanmalviya/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<a href="mailto:ketanmalviya9424840@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<a href="https://github.com/Ketan444">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</p>
----
+![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 
-# 💻 Tech Stack
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Languages
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
+# 📊 GitHub Stats:
 
-### AI / Machine Learning
+![](https://github-readme-stats.vercel.app/api?username=Ketan444&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-
-![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
-
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-
-![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge)
-
-### Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-# 📌 Featured Projects
-
-### 🤖 Social-to-Lead Agent
-Agentic AI workflow that converts social interactions into qualified leads using AI agents.
-
-### 📈 Binance Futures Trading Bot
-Automated crypto trading bot with strategy execution and risk management.
-
-### 🧪 Automated Testing Framework
-Software engineering testing framework supporting CSV, JSON, XML validation workflows.
-
-### 🛒 Flipkart Customer Support ML
-Machine Learning model for ticket classification and customer support automation.
-
-### 🧬 Biotech Leads Dashboard
-AI-powered dashboard for biotech lead generation and analytics.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ketan444&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan444&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ketan444&theme=tokyonight"/>
-</p>
-
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan444&theme=dark&hide_border=false&layout=compact)
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ketan444&theme=tokyonight&row=1&column=7"/>
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Ketan444&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
----
+# ✍️ Random Dev Quote
 
-# 📈 Contribution Graph
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ketan444&theme=tokyo-night"/>
-</p>
+# 🔝 Top Contributed Repo
 
----
-
-# 🎯 2026 Goals
-
-✅ AI/ML Internship
-
-✅ Open Source Contributions
-
-✅ Build Production AI Agents
-
-✅ Win National Hackathons
-
-✅ Publish End-to-End AI Projects
-
----
-
-# ⚡ Fun Fact
-
-"Turning ideas into intelligent systems with AI and Python."
+![](https://github-contributor-stats.vercel.app/api?username=Ketan444&limit=5&theme=dark&combine_all_yearly_contributions=true)
